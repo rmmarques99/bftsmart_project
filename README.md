@@ -64,4 +64,4 @@ bftmap/
 ---
 
 ## ✨ Authors
-- Project developed by Grupo 11 - Miguel Pena 64446, Rafael Marques 51167, Rui Fonseca 58657
+- Project developed by Miguel Pena, Rafael Marques, Rui Fonseca
