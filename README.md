@@ -63,5 +63,4 @@ bftmap/
 
 ---
 
-## ✨ Authors
-- Project developed by Miguel Pena, Rafael Marques, Rui Fonseca
+
